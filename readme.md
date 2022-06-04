@@ -1,7 +1,7 @@
 # Company Networking Project
 
 ### Topology:
-![image]([https://user-images.githubusercontent.com/81536161/172024143-297b7ece-9c95-4695-a352-1a7198e641f4.png](https://github.com/saadabuzaid/Company-network-configuration/blob/main/Network-Assignment/Topology.png))
+![Topology](([https://github.com/saadabuzaid/Company-network-configuration/blob/339d688f76668e85cb66173902bf10dec2cf2d4f/Network-Assignment/Topology.png](https://raw.githubusercontent.com/saadabuzaid/Company-network-configuration/main/Network-Assignment/Topology.png)))
 
 
 ### Scenario:
